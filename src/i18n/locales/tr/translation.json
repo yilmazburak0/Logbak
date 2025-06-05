@@ -1,0 +1,79 @@
+{
+  "intro": {
+    "title": "Yapay Zekâ Destekli Sunucu Takibi",
+    "description": "CPU, RAM, GPU kullanımı, çalışan portlar, aktif servisler ve daha fazlası tek ekranda. Yapay zekâ sayesinde anomalileri anında tespit edin, riskleri azaltın.",
+    "features": "Gerçek Zamanlı İzleme | Gelişmiş Raporlama | Akıllı Uyarı Sistemi"
+  },
+  "hero": {
+    "title": "Tüm Sunucu Yönetimi ve Güvenlik Süreçleri Tek Platformda",
+    "description": "Sunucularınızı gerçek zamanlı izleyin, yönetin ve güvenli hale getirin. Anomali tespiti, yapay zekâ destekli uyarılar ve akıllı komut yönetimi ile iş yükünüzü hafifletin."
+  },
+  "services": {
+    "title": "Çözümlerimiz",
+    "subtitle": "Yapay zekâ destekli akıllı çözümlerle sunucu yönetimini yeniden tanımlıyoruz.",
+    "cards": {
+      "panel": {
+        "title": "Web ve Mobil Uyumlu Yönetim Paneli",
+        "description": "Nerede olursanız olun, sunucularınızı cebinizden kontrol edin. Web ve mobil arayüzümüz üzerinden komut çalıştırın, süreçleri takip edin ve sisteminize hâkim olun"
+      },
+      "chatbot": {
+        "title": "Sunucu Chatbotu ile Akıllı Destek",
+        "description": "Log analizlerini yorumlayan yapay zekâ destekli chatbotumuz ile IT ekibinize özel içgörüler sunun. Sorunları önceden tahmin edin, hızlı aksiyon alın."
+      },
+      "platform": {
+        "title": "Tek Platform, Sonsuz Kontrol",
+        "features": {
+          "hardware": "Donanım İzleme (CPU, RAM, GPU, Disk)",
+          "ports": "Aktif Port ve İşlem Görüntüleme",
+          "commandLine": "Komut Satırı Erişimi (Web ve Mobil)",
+          "anomaly": "Anomali Tespiti ve Otomatik Uyarı Sistemi",
+          "log": "Log Analizi ile Karar Destek",
+          "ai": "Yapay Zekâ Destekli Chatbot",
+          "users": "Çoklu Kullanıcı ve Yetkilendirme",
+          "reporting": "Detaylı Raporlama ve Analitik"
+        }
+      },
+      "smart": {
+        "title": "Sunucularınızı Daha Akıllı Hale Getirin",
+        "description": "Güvenliği ve verimliliği aynı anda sağlayan proaktif bir çözüm: Yapay zekâ ile desteklenen sunucu yönetimi sistemimizle tanışın.",
+        "benefits": {
+          "less": "Daha Az Kesinti",
+          "faster": "Daha Hızlı Müdahale",
+          "efficient": "Daha Verimli IT Operasyonları"
+        }
+      }
+    },
+    "vision": {
+      "title": "VİZYON",
+      "description": "Modern sunucu altyapılarında güvenliği, erişilebilirliği ve yönetilebilirliği artırmak amacıyla; yapay zekâ destekli, kullanıcı dostu ve platformlar arası (web + mobil) çalışan entegre bir izleme ve yönetim sistemi geliştirerek, IT operasyonlarını daha akıllı ve proaktif hale getiren öncü bir çözüm sunmak"
+    },
+    "mission": {
+      "title": "MİSYON",
+      "items": [
+        "Sunucularda çalışan uygulamaların ve donanımsal parametrelerin anlık izlenmesini sağlayan sezgisel bir kullanıcı arayüzü geliştirmek.",
+        "Gerçek zamanlı veri takibiyle olağan dışı durumları yapay zekâ algoritmalarıyla tespit ederek kullanıcıları anında bilgilendirmek.",
+        "Web ve mobil üzerinden sunucuya uzaktan komut göndermeye imkân tanıyarak sistem yönetimini kolaylaştırmak.",
+        "Sunucu loglarını analiz ederek anlamlı çıktılar sunan ve IT ekiplerine rehberlik eden bir akıllı chatbot oluşturmak.",
+        "Kullanımı kolay, güvenli ve ölçeklenebilir bir sistem sunarak hem teknik hem de operasyonel verimliliği artırmak."
+      ]
+    }
+  },
+  "footer": {
+    "appDescription": "Logbak ile uygulama loglarınızı kolayca toplayabilir, analiz edebilir ve yönetebilirsiniz.",
+    "socialMediaTitle": "Sosyal Medya Linkleri",
+    "socialMediaDescription": "Bizi sosyal medya hesaplarımızdan takip edin.",
+    "copyright": "© {{year}} Logbak. Tüm hakları saklıdır."
+  },
+  "navbar": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "services": "Hizmetler",
+    "contact": "İletişim",
+    "login": "Giriş Yap",
+    "signup": "Kayıt Ol",
+    "language": {
+      "en": "İngilizce",
+      "tr": "Türkçe"
+    }
+  }
+}

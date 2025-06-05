@@ -1,0 +1,79 @@
+{
+  "intro": {
+    "title": "AI-Powered Server Monitoring",
+    "description": "CPU, RAM, GPU usage, running ports, active services and more on a single screen. Detect anomalies instantly with artificial intelligence, reduce risks.",
+    "features": "Real-time Monitoring | Advanced Reporting | Smart Alert System"
+  },
+  "hero": {
+    "title": "All Server Management and Security Processes on a Single Platform",
+    "description": "Monitor, manage, and secure your servers in real-time. Reduce your workload with anomaly detection, AI-powered alerts, and intelligent command management."
+  },
+  "services": {
+    "title": "Our Solutions",
+    "subtitle": "We are redefining server management with AI-powered smart solutions.",
+    "cards": {
+      "panel": {
+        "title": "Web and Mobile Compatible Management Panel",
+        "description": "Control your servers from your pocket, wherever you are. Run commands through our web and mobile interface, track processes, and master your system"
+      },
+      "chatbot": {
+        "title": "Smart Support with Server Chatbot",
+        "description": "Provide special insights to your IT team with our AI-powered chatbot that interprets log analyses. Predict problems in advance, take quick action."
+      },
+      "platform": {
+        "title": "One Platform, Infinite Control",
+        "features": {
+          "hardware": "Hardware Monitoring (CPU, RAM, GPU, Disk)",
+          "ports": "Active Port and Process Viewing",
+          "commandLine": "Command Line Access (Web and Mobile)",
+          "anomaly": "Anomaly Detection and Automatic Alert System",
+          "log": "Decision Support with Log Analysis",
+          "ai": "AI-Powered Chatbot",
+          "users": "Multiple Users and Authorization",
+          "reporting": "Detailed Reporting and Analytics"
+        }
+      },
+      "smart": {
+        "title": "Make Your Servers Smarter",
+        "description": "A proactive solution that provides both security and efficiency: Meet our AI-powered server management system.",
+        "benefits": {
+          "less": "Less Downtime",
+          "faster": "Faster Response",
+          "efficient": "More Efficient IT Operations"
+        }
+      }
+    },
+    "vision": {
+      "title": "VISION",
+      "description": "To provide a pioneering solution that makes IT operations smarter and more proactive by developing an AI-powered, user-friendly, and cross-platform (web + mobile) integrated monitoring and management system to enhance security, accessibility, and manageability in modern server infrastructures"
+    },
+    "mission": {
+      "title": "MISSION",
+      "items": [
+        "Develop an intuitive user interface that enables real-time monitoring of applications running on servers and hardware parameters.",
+        "Immediately inform users by detecting unusual situations with artificial intelligence algorithms through real-time data tracking.",
+        "Facilitate system management by enabling remote command sending to the server via web and mobile.",
+        "Create a smart chatbot that analyzes server logs, provides meaningful outputs, and guides IT teams.",
+        "Increase both technical and operational efficiency by providing an easy-to-use, secure, and scalable system."
+      ]
+    }
+  },
+  "footer": {
+    "appDescription": "With Logbak, you can easily collect, analyze, and manage your application logs.",
+    "socialMediaTitle": "Social Media Links",
+    "socialMediaDescription": "Follow us on our social media accounts.",
+    "copyright": "© {{year}} Logbak. All rights reserved."
+  },
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact",
+    "login": "Login",
+    "signup": "Sign Up",
+    "language": {
+      "en": "English",
+      "tr": "Turkish"
+    }
+  }
+}

@@ -10,7 +10,7 @@ const NavLinks = () => {
         <HashLink
           className="px-4 font-extrabold text-gray-500 hover:text-blue-900"
           smooth
-          to="/#hero">
+          to="/#about">
           {t('navbar.about')}
         </HashLink>
         <HashLink

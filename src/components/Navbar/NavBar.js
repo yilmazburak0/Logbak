@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import NavLinks from '../Navbar/NavLinks';
 import { HashLink } from 'react-router-hash-link';
-import logo from '../../images/logo.jpg';
+import logo from '../../images/logo.png';
 
 
 
@@ -29,7 +29,7 @@ const NavBar = () => {
         <div className="flex flex-row justify-between items-center py-2">
           <div className="flex flex-row justify-center md:px-12 md:mx-12 items-center text-center font-semibold">
             <HashLink smooth to="/#hero">
-              <img src={logo} alt="Logbak Logo" className="h-16 rounded" />
+              <img src={logo} alt="Logbak Logo" className="h-10 rounded" />
             </HashLink>
           </div>
           <div className="group flex flex-col items-center">

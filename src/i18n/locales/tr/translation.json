@@ -75,5 +75,16 @@
       "en": "İngilizce",
       "tr": "Türkçe"
     }
-  }
+  },
+  "contact": {
+  "title": "Bize Ulaşın",
+  "description": "Müşterilerimize değer veriyoruz. Mesai saatleri içinde bizi dilediğiniz zaman ziyaret edebilirsiniz.",
+  "whatsapp": "WhatsApp ile İletişime Geçin",
+  "address": "Muğla Teknopark, Kötekli, Menteşe/Muğla, Türkiye",
+  "workingHours": {
+    "title": "Çalışma Saatleri",
+    "schedule": "Hafta içi 09:00 - 17:00"
+  },
+  "mapTitle": "Google Haritalar - Logbak Konumu"
+}
 }

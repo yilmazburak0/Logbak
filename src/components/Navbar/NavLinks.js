@@ -19,6 +19,12 @@ const NavLinks = () => {
           to="/#services">
           {t('navbar.services')}
         </HashLink>
+        <HashLink
+          className="px-4 font-extrabold text-gray-500 hover:text-blue-900"
+          smooth
+          to="/#contact">
+          {t('navbar.contact')}
+        </HashLink>
         <button 
           className="px-2 font-medium text-gray-500 hover:text-blue-900" 
           onClick={() => i18n.changeLanguage("tr")}>

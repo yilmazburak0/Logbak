@@ -75,5 +75,16 @@
       "en": "English",
       "tr": "Turkish"
     }
-  }
+  },
+  "contact": {
+  "title": "Contact Us",
+  "description": "We value our customers. Feel free to visit us during business hours.",
+  "whatsapp": "Contact via WhatsApp",
+  "address": "Muğla Teknopark, Kötekli, Menteşe/Muğla, Turkey",
+  "workingHours": {
+    "title": "Working Hours",
+    "schedule": "Weekdays 09:00 - 17:00"
+  },
+  "mapTitle": "Google Maps - Logbak Location"
+}
 }

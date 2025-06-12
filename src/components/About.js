@@ -1,8 +1,8 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
-import missionImg from '../images/web-dev.svg';
-import visionImg from '../images/app.svg';
-import servicesImg from '../images/hosting.svg';
+import missionImg from '../images/mission.jpg';
+import visionImg from '../images/vision.jpg';
+import servicesImg from '../images/services.jpg';
 
 const About = () => {
   const { t } = useTranslation();

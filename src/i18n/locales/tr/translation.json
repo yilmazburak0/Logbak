@@ -45,17 +45,16 @@
     },
     "vision": {
       "title": "VİZYON",
-      "description": "Modern sunucu altyapılarında güvenliği, erişilebilirliği ve yönetilebilirliği artırmak amacıyla; yapay zekâ destekli, kullanıcı dostu ve platformlar arası (web + mobil) çalışan entegre bir izleme ve yönetim sistemi geliştirerek, IT operasyonlarını daha akıllı ve proaktif hale getiren öncü bir çözüm sunmak"
+      "description": "Logbak gelecekteki teknolojik yeniliklere öncülük etmeyi hedefliyor. Müşterilerimizin iş süreçlerini optimize etmek ve rekabet avantajı sağlamak için yenilikçi çözümler sunuyoruz."
+    },
+    "services": {
+      "title": "HİZMETLERİMİZ",
+      "description": "Logbak kullanıcılarına; ağ güvenliği, bulut bilişim, yazılım geliştirme ve IT danışmanlığı gibi geniş bir hizmet yelpazesi sunmaktadır. Her sektördeki işletmelere özel çözümler üreterek ihtiyaçlarınıza en uygun hizmetleri sağlıyoruz."
     },
     "mission": {
       "title": "MİSYON",
-      "items": [
-        "Sunucularda çalışan uygulamaların ve donanımsal parametrelerin anlık izlenmesini sağlayan sezgisel bir kullanıcı arayüzü geliştirmek.",
-        "Gerçek zamanlı veri takibiyle olağan dışı durumları yapay zekâ algoritmalarıyla tespit ederek kullanıcıları anında bilgilendirmek.",
-        "Web ve mobil üzerinden sunucuya uzaktan komut göndermeye imkân tanıyarak sistem yönetimini kolaylaştırmak.",
-        "Sunucu loglarını analiz ederek anlamlı çıktılar sunan ve IT ekiplerine rehberlik eden bir akıllı chatbot oluşturmak.",
-        "Kullanımı kolay, güvenli ve ölçeklenebilir bir sistem sunarak hem teknik hem de operasyonel verimliliği artırmak."
-      ]
+      "description": 
+        "Logbak olarak, müşterilerimize en yüksek kalitede IT hizmetleri sunmayı misyon ediniyoruz. Teknolojinin sürekli değişen dinamiklerine ayak uydurarak, işletmelerin dijital dönüşüm süreçlerine katkıda bulunuyoruz."
     }
   },
   "footer": {

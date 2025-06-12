@@ -45,17 +45,15 @@
     },
     "vision": {
       "title": "VISION",
-      "description": "To provide a pioneering solution that makes IT operations smarter and more proactive by developing an AI-powered, user-friendly, and cross-platform (web + mobile) integrated monitoring and management system to enhance security, accessibility, and manageability in modern server infrastructures"
+      "description": "Logbak aims to lead future technological innovations. We offer innovative solutions to optimize our clients' business processes and provide a competitive advantage."
+    },
+     "services": {
+      "title": "OUR SERVICES",
+      "description": "Logbak offers its users a wide range of services including network security, cloud computing, software development, and IT consulting. We provide tailored solutions for businesses in every sector to deliver the most suitable services for your needs."
     },
     "mission": {
       "title": "MISSION",
-      "items": [
-        "Develop an intuitive user interface that enables real-time monitoring of applications running on servers and hardware parameters.",
-        "Immediately inform users by detecting unusual situations with artificial intelligence algorithms through real-time data tracking.",
-        "Facilitate system management by enabling remote command sending to the server via web and mobile.",
-        "Create a smart chatbot that analyzes server logs, provides meaningful outputs, and guides IT teams.",
-        "Increase both technical and operational efficiency by providing an easy-to-use, secure, and scalable system."
-      ]
+      "description": "At Logbak, our mission is to provide our clients with the highest quality IT services. By keeping up with the ever-evolving dynamics of technology, we contribute to the digital transformation processes of businesses."
     }
   },
   "footer": {

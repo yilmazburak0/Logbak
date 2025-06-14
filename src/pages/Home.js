@@ -5,6 +5,7 @@ import Intro from '../components/Intro';
 import Services from '../components/Services';
 import ContactSection from '../components/ContactSection';
 import About from '../components/About';
+import OurSoftware from '../components/OurSoftware';
 
 
 const Home = () => {
@@ -12,6 +13,7 @@ const Home = () => {
         <>
             <Hero />
             <Intro />
+            <OurSoftware/>
             <Services />
             <About/>
             <ContactSection />

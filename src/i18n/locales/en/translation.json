@@ -84,5 +84,12 @@
     "schedule": "Weekdays 09:00 - 17:00"
   },
   "mapTitle": "Google Maps - Logbak Location"
+},
+"software": {
+  "title": "Our Product",
+  "p1": "Logbak is a software that makes your server systems smarter. It collects and analyzes information from your servers, learns what normal operation looks like, and quickly spots when something's starting to go wrong.",
+  "p2": "With Logbak's AI, even complex technical messages turn into easy-to-understand explanations. This means you'll quickly grasp what's amiss and why. Plus, you can ask its built-in chatbot questions and easily find the information you need.",
+  "p3": "See all your important server data on one screen, ensuring your systems run smoothly and helping you quickly resolve unexpected issues. With Logbak, your operations become less confusing, faster, and more secure.",
+  "p4": "Logbak processes all your data securely on your servers and does not send it outside, so your information always remains under your control."
 }
 }

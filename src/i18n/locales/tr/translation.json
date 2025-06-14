@@ -85,5 +85,12 @@
     "schedule": "Hafta içi 09:00 - 17:00"
   },
   "mapTitle": "Google Haritalar - Logbak Konumu"
+},
+"software": {
+  "title": "Ürünümüz",
+  "p1": "Logbak, sunucu sistemlerinizi daha akıllı hale getiren bir yazılımdır. Sunucularınızdan gelen bilgileri toplayıp analiz ederek, her şeyin normal çalıştığını öğrenir ve bir sorun oluşmaya başladığında hemen fark eder.",
+  "p2": "Logbak'ın yapay zekası, karmaşık teknik mesajları bile anlaşılır açıklamalara dönüştürür. Böylece, neyin yanlış gittiğini ve nedenini hızla anlarsınız. Ayrıca, kendi sohbet robotuyla sorular sorabilir, aradığınız bilgiyi kolayca bulabilirsiniz.",
+  "p3": "Tek bir ekran üzerinde tüm önemli bilgileri görerek, sunucularınızın sorunsuz çalışmasını sağlayın ve beklenmedik durumları hızla çözün. Logbak ile işleriniz daha az karışık, daha hızlı ve daha güvenli hale gelir.",
+  "p4": "Logbak, tüm verilerinizi sunucularınızda güvenle işler ve dışarıya göndermez, böylece bilgileriniz her zaman kontrolünüzde kalır."
 }
 }
